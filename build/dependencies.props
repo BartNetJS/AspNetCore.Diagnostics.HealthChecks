@@ -120,15 +120,14 @@
     <HealthCheckHangfire>5.0.1</HealthCheckHangfire>
     <HealthCheckAzureServiceBus>5.1.1</HealthCheckAzureServiceBus>
     <HealthCheckConsul>5.0.1</HealthCheckConsul>
-    <HealthCheckUI>5.0.1</HealthCheckUI>
-    <HealthCheckUICore>5.0.1</HealthCheckUICore>
-    <HealthCheckUIClient>5.0.1</HealthCheckUIClient>
-    <HealthCheckUISqlServerStorage>5.0.1</HealthCheckUISqlServerStorage>
-    <HealthCheckUISQLiteStorage>5.0.1</HealthCheckUISQLiteStorage>
-    <HealthChecksUIPostgreSQLStorage>5.0.1</HealthChecksUIPostgreSQLStorage>
-    <HealthCheckUIInMemoryStorage>5.0.1</HealthCheckUIInMemoryStorage>
-    <HealthCheckUIMySqlStorage>5.0.1</HealthCheckUIMySqlStorage>
-    <HealthCheckPublisherAppplicationInsights>5.0.1</HealthCheckPublisherAppplicationInsights>
+    <HealthCheckUI>5.0.4-hip</HealthCheckUI>
+    <HealthCheckUICore>5.0.2-hip</HealthCheckUICore>
+    <HealthCheckUIClient>5.0.2-hip</HealthCheckUIClient>
+    <HealthCheckUISqlServerStorage>5.0.1-hip</HealthCheckUISqlServerStorage>
+    <HealthCheckUISQLiteStorage>5.0.1-hip</HealthCheckUISQLiteStorage>
+    <HealthChecksUIPostgreSQLStorage>5.0.1-hip</HealthChecksUIPostgreSQLStorage>
+    <HealthCheckUIInMemoryStorage>5.0.1-hip</HealthCheckUIInMemoryStorage>
+    <HealthCheckUIMySqlStorage>5.0.1-hip</HealthCheckUIMySqlStorage>    <HealthCheckPublisherAppplicationInsights>5.0.1</HealthCheckPublisherAppplicationInsights>
     <HealthCheckPublisherDatadog>5.0.1</HealthCheckPublisherDatadog>
     <HealthCheckPublisherPrometheus>5.0.1</HealthCheckPublisherPrometheus>
     <HealthCheckPrometheusMetrics>5.0.1</HealthCheckPrometheusMetrics>

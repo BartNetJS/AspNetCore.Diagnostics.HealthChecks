@@ -27,8 +27,8 @@ namespace System.Net.Http
                             {
                                 Dictionary<string, UIHealthReportEntry> entries = new();
                                 entries.Add("endpoint", new UIHealthReportEntry() { 
-                                    Status = UIHealthStatus.Unhealthy,
-                                    Description = body
+                                    Status = report.Status,
+                                    Description = "Missing entries property in Health Report"
                                 });
                                 return (TContent)new UIHealthReport(entries, new TimeSpan());
                             }
